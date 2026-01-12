@@ -1,0 +1,5 @@
+---
+- name: Manage Users
+  hosts: all
+  tasks:
+    # Add user management tasks here

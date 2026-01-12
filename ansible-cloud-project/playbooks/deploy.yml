@@ -1,0 +1,5 @@
+---
+- name: Deploy Application
+  hosts: web_servers
+  tasks:
+    # Add deployment tasks here

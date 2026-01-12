@@ -1,0 +1,5 @@
+---
+- name: Setup Nginx
+  hosts: web_servers
+  tasks:
+    # Add nginx tasks here
